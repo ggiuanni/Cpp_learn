@@ -18,3 +18,18 @@ add_executable(for_loop_range
 
 add_executable(for_loop_condition
     for_loop_condition.cpp)
+
+add_executable(while_loop
+    while_loop.cpp)
+    
+add_executable(do_while_loop
+    do_while_loop.cpp)
+
+add_executable(breaking_loop
+    breaking_loop.cpp)
+    
+add_executable(continuing_loop
+    continuing_loop.cpp)
+
+add_executable(nesting_loop
+    nesting_loop.cpp)
