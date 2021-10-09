@@ -1,8 +1,5 @@
-include_directories(
-    include
-)
-
 add_executable(safestuff
-    main.cpp
-    safestuff.cpp
-)
+main.cpp
+safestuff.cpp)
+
+target_include_directories(safestuff PRIVATE includes)
