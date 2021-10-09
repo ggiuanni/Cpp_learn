@@ -17,13 +17,12 @@ int main()
     }
 
     int values[] = {1, 2, 3, 4, 5, 0};
-    
+
     // same syntax of the above loop
     for (int i = 0; auto c = values[i]; i++)
     {
         cout << c << endl;
     }
-
 
     return 0;
 }

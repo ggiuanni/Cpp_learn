@@ -19,6 +19,6 @@ int main()
         y += i;
     }
     cout << "Y: " << y << endl;
-    
+
     return 0;
 }

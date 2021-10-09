@@ -12,7 +12,7 @@ int main()
     bool out1 = result < 0;
     bool out2 = result == 0;
     bool out3 = result > 0;
-    
+
     std::cout << out1 << std::endl;
     std::cout << out2 << std::endl;
     std::cout << out3 << std::endl;
