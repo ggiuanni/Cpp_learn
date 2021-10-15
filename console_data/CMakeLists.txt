@@ -1,0 +1,2 @@
+add_executable(read_console_data
+read_console_data.cpp)

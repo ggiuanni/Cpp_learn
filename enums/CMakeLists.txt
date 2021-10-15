@@ -1,0 +1,2 @@
+add_executable(display_enum
+display_enum.cpp)

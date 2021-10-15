@@ -1,0 +1,2 @@
+add_executable(random_number
+random_number.cpp)

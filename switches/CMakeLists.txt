@@ -1,0 +1,2 @@
+add_executable(switch_statement
+switch_statement.cpp)
