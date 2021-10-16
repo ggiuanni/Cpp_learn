@@ -1,0 +1,2 @@
+add_executable(implement_properties
+implement_properties.cpp)
