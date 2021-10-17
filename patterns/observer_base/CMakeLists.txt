@@ -1,0 +1,4 @@
+add_library(observer_base
+observer_base.cpp)
+
+target_include_directories(observer_base PUBLIC includes)
