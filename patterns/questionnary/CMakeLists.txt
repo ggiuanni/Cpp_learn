@@ -1,0 +1,4 @@
+add_library(questionnary
+questionnary.cpp)
+
+target_include_directories(questionnary PUBLIC includes)
