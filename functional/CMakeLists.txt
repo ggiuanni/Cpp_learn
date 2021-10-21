@@ -18,3 +18,12 @@ declarative.cpp)
 
 add_executable(auto
 auto.cpp)
+
+add_executable(function_function
+function_function.cpp)
+
+add_executable(transform
+transform.cpp)
+
+add_executable(lambda
+lambda.cpp)
