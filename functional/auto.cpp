@@ -1,3 +1,5 @@
+#ifdef __linux__
+
 #include <iostream>
 #include <typeinfo>
 #include <memory>
@@ -42,3 +44,5 @@ int main()
 
     return 0;
 }
+
+#endif // 
