@@ -15,3 +15,6 @@ multi_task.cpp)
 
 add_executable(sort_list
 sort_list.cpp)
+
+add_executable(consteval
+consteval.cpp)
