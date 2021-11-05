@@ -18,3 +18,9 @@ sort_list.cpp)
 
 add_executable(consteval
 consteval.cpp)
+
+add_executable(priority_queue
+priority_queue.cpp)
+
+add_executable(assign_lambda
+assign_lambda.cpp)
