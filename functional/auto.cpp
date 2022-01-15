@@ -1,4 +1,4 @@
-#ifdef __linux__
+#ifndef _WIN32
 
 #include <iostream>
 #include <typeinfo>
@@ -45,4 +45,10 @@ int main()
     return 0;
 }
 
-#endif // 
+#endif //
+
+int main(int argc, char const *argv[])
+{
+    /* code */
+    return 0;
+}

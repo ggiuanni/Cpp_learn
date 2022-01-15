@@ -1,3 +1,5 @@
+#ifndef _WIN32
+
 #include <iostream>
 #include <typeinfo>
 #include <memory>
@@ -41,5 +43,13 @@ int main()
              { return char(x * 10); });
     ShowChar([](int x) -> char
              { return char(x * 10); });
+    return 0;
+}
+
+#endif
+
+int main(int argc, char const *argv[])
+{
+    /* code */
     return 0;
 }
