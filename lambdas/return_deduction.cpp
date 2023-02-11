@@ -46,10 +46,12 @@ int main()
     return 0;
 }
 
-#endif
+#else
 
 int main(int argc, char const *argv[])
 {
     /* code */
     return 0;
 }
+
+#endif
