@@ -18,3 +18,6 @@ non_type_parm.cpp)
 
 add_executable(typedef_template
 typedef_template.cpp)
+
+add_executable(mediaholder
+mediaholder.cpp)
