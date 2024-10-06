@@ -21,3 +21,6 @@ typedef_template.cpp)
 
 add_executable(mediaholder
 mediaholder.cpp)
+
+add_executable(supermath
+supermath.cpp)
