@@ -30,3 +30,6 @@ derived.cpp)
 
 add_executable(absolute_value
 absolute_value.cpp)
+
+add_executable(absolute_value_method
+absolute_value_method.cpp)
