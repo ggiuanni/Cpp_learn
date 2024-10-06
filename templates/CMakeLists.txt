@@ -3,3 +3,6 @@ cool_holder.cpp)
 
 add_executable(im_free
 im_free.cpp)
+
+add_executable(electricity
+electricity.cpp)
