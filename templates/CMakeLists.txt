@@ -24,3 +24,6 @@ mediaholder.cpp)
 
 add_executable(supermath
 supermath.cpp)
+
+add_executable(derived
+derived.cpp)
