@@ -9,3 +9,6 @@ electricity.cpp)
 
 add_executable(price_controller
 price_controller.cpp)
+
+add_executable(my_map
+my_map.cpp)
