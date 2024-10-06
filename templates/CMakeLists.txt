@@ -12,3 +12,6 @@ price_controller.cpp)
 
 add_executable(my_map
 my_map.cpp)
+
+add_executable(non_type_parm
+non_type_parm.cpp)
