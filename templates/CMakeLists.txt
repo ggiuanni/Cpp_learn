@@ -27,3 +27,6 @@ supermath.cpp)
 
 add_executable(derived
 derived.cpp)
+
+add_executable(absolute_value
+absolute_value.cpp)
