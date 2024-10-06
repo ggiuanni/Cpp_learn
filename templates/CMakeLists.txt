@@ -15,3 +15,6 @@ my_map.cpp)
 
 add_executable(non_type_parm
 non_type_parm.cpp)
+
+add_executable(typedef_template
+typedef_template.cpp)
