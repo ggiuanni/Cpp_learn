@@ -6,3 +6,12 @@ vectors.cpp)
 
 add_executable(array
 array.cpp)
+
+add_executable(map
+map.cpp)
+
+add_executable(store_me
+store_me.cpp)
+
+add_executable(store_me_vector
+store_me_vector.cpp)
