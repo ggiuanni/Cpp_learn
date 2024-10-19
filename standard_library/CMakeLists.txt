@@ -18,3 +18,9 @@ store_me_vector.cpp)
 
 add_executable(map_compare
 map_compare.cpp)
+
+add_executable(iterator
+iterator.cpp)
+
+add_executable(pointer_problem
+pointer_problem.cpp)
