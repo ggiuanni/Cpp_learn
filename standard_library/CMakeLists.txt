@@ -25,8 +25,11 @@ iterator.cpp)
 add_executable(pointer_problem
 pointer_problem.cpp)
 
-add_executable(set
-set.cpp)
+add_executable(sets
+sets.cpp)
 
 add_executable(set_union_intersection
 set_union_intersection.cpp)
+
+add_executable(lists
+lists.cpp)

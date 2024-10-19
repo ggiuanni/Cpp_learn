@@ -41,6 +41,7 @@ int main(int argc, char const *argv[])
     History.insert("Odin");
 
     set<string> Intersect;
+    // Special iterator for INSERTING elements inside a set or vector
     insert_iterator<set<string>> IntersectIterate(Intersect, Intersect.begin());
     set_intersection(English.begin(), English.end(), History.begin(), History.end(), IntersectIterate);
     cout << endl
@@ -53,6 +54,6 @@ int main(int argc, char const *argv[])
     cout << endl
          << "===Union===" << endl;
     DumpClass(&Union);
-    
+
     return 0;
 }
