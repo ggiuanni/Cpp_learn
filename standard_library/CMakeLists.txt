@@ -33,3 +33,6 @@ set_union_intersection.cpp)
 
 add_executable(lists
 lists.cpp)
+
+add_executable(stack_queue
+stack_queue.cpp)
