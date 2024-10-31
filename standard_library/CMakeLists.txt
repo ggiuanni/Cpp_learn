@@ -42,3 +42,6 @@ copy_containers.cpp)
 
 add_executable(dynamic_array
 dynamic_array.cpp)
+
+add_executable(unordered_set
+unordered_set.cpp)
