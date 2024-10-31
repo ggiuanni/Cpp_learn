@@ -39,3 +39,6 @@ stack_queue.cpp)
 
 add_executable(copy_containers
 copy_containers.cpp)
+
+add_executable(dynamic_array
+dynamic_array.cpp)
