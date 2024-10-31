@@ -45,3 +45,6 @@ dynamic_array.cpp)
 
 add_executable(unordered_set
 unordered_set.cpp)
+
+add_executable(ranges_views
+ranges_views.cpp)
