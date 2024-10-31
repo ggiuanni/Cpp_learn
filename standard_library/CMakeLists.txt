@@ -36,3 +36,6 @@ lists.cpp)
 
 add_executable(stack_queue
 stack_queue.cpp)
+
+add_executable(copy_containers
+copy_containers.cpp)
